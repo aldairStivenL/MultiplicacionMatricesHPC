@@ -1,0 +1,14 @@
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\obj\Debug\net9.0\proto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\obj\Debug\net9.0\proto1.AssemblyInfoInputs.cache
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\obj\Debug\net9.0\proto1.AssemblyInfo.cs
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\obj\Debug\net9.0\proto1.csproj.CoreCompileInputs.cache
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\bin\Debug\net9.0\proto1.exe
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\bin\Debug\net9.0\proto1.deps.json
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\bin\Debug\net9.0\proto1.runtimeconfig.json
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\bin\Debug\net9.0\proto1.dll
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\bin\Debug\net9.0\proto1.pdb
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\obj\Debug\net9.0\proto1.dll
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\obj\Debug\net9.0\refint\proto1.dll
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\obj\Debug\net9.0\proto1.pdb
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\obj\Debug\net9.0\proto1.genruntimeconfig.cache
+C:\Users\aela2\Documents\A UTP SEMESTRE 1 2026\HpC\multiplicacion matrices cuadradas 1 Computacion secuencial\proto1\obj\Debug\net9.0\ref\proto1.dll
